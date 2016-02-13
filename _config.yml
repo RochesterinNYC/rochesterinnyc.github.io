@@ -17,12 +17,8 @@ title: James Wen
 author: James Wen
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
-twitter: username
-linkedin: username
-google_analytics: UA-69391421-1
-
-
-# needed for travis-ci build
-exclude: [vendor]
+email: jrw2175@columbia.edu
+github: RochesterinNYC
+twitter: RochesterinNYC
+linkedin: jamesrwen
+google_analytics: UA-35915936-6
